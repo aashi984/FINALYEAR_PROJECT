@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HOME1.master.cs" Inherits="HOME1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Enhancing Healthcare Imaging Security Based On  Novel Pairing Free revocable Certificateless Encryption Scheme<</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
+        </head>
+<body>
+
+    <form id="form1" runat="server">
+
+<div id="bg_top">
+<div >
+<div>
+
+
+
+<div id="main">
+<!-- header begins -->
+<div id="header">
+	<div id="buttons"><div class="but_r"></div>
+      <a href="CloudHome.aspx" class="but but_t"  title="">Home</a><div class="but_r"></div>
+      <a href="ForwardReq.aspx" class="but" title="">View Uploaded Files</a><div class="but_r"></div>
+        
+      <a href="LBS.aspx" class="but" title="">LogOut</a><div class="but_r"></div>
+    </div>
+	<div id="logo">
+    	<a href="#">&nbsp;</a>
+      	<h1>&nbsp;&nbsp;&nbsp;Enhancing Healthcare Imaging Security Based On Novel Pairing Free revocable Certificateless Encryption Scheme</h1>
+    </div>
+	
+</div>
+<!-- header ends -->
+        <!-- content begins -->
+       			<div id="content" style=" background: #A2A2A2;">
+        		    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+        		</div>
+    <!-- content ends --> 
+    <div style="height:35px"></div>
+
+</div>
+</div>
+</div>
+
+
+<!-- bottom begin -->
+    <div id="bottom_bot">
+    <div id="bottom">
+        <div id="bottom_all">
+        <div id="bottom_all_bot">
+      
+               
+                <div id="b_col4">
+                	<h1></h1>
+                    <div style="height:15px"></div>
+                    <b></b><br />
+                    <br /><br />
+					<b></b><br />
+					
+                        
+          		</div>
+          	<div style="clear: both; height:20px;"></div>
+        </div>     
+        </div>  
+        <!-- footer begins -->
+        <div id="footer">
+            <a href="#" title="Website Templates"></a><br />
+            <a href="#"></a>  <a href="#"></a>  <a href="#" title="#"><abbr title=""></abbr></a>  <a href="#" title=""><abbr title=""></abbr></a>
+        </div>
+        <!-- footer ends -->
+        
+        
+         
+    </div>
+    </div>
+<!-- bottom end --> 
+
+</div>
+
+    </form>
+
+</body>
+</html>

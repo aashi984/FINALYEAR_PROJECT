@@ -1,0 +1,2 @@
+RecordDate	Symptoms	Diagnosis	Medications	Notes	Allergies	LabTests	FollowUpDate	BloodPressure	HeartRate	Temperature	Weight	Height	BloodSugar	DoctorEmail
+5/13/2025 11:49:16 AM	ABCD	sf	sf	good	sfdsfds	yes		333	2343	34	24	123	sf	p.pavithra313@gmail.com
