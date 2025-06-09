@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Home.master.cs" Inherits="Home" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Enhancing Healthcare Imaging Security Based On  Novel Pairing Free revocable Certificateless Encryption Scheme</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
+        </head>
+  
+<body>
+
+    <form id="form1" runat="server">
+
+<div id="bg_top">
+<div >
+<div>
+
+
+
+<div id="main">
+<center>
+<div id="header" style="position: fixed; top: 0; left: 0; width: 100%; background-color: #004466; padding: 20px; color: white; z-index: 1000;">
+    <div style="margin-bottom: 10px;">
+        <h1 style="margin: 0; font-size: 24px;"><center>Enhancing Healthcare Imaging Security Based On  Novel Pairing Free revocable Certificateless Encryption Scheme</center></h1>
+     
+    </div>
+    <div style="margin-top: 20px; font-size:16px">
+           <a href="Home.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Home</a>
+          <a href="Register.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Medical Server Register</a>
+              <a href="UserLogin.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Medical Server Login</a>
+
+        <a href="PatientRegister.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Patient Registration</a>
+       <a href="PatientLogin.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Patient Login</a>
+       
+    
+      
+        <a href="LBS.aspx" style="margin: 0 10px; color: white; text-decoration: none;">Cloud Login</a>
+    </div>
+</div>
+</center>
+
+
+<!-- header ends -->
+        <!-- content begins -->
+       		<div id="content" style="margin-top: 220px; background: #A2A2A2;">
+        		    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+        		</div>
+    <!-- content ends --> 
+    <div style="height:35px"></div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<!-- bottom begin -->
+    <div id="bottom_bot">
+    <div id="bottom">
+        <div id="bottom_all">
+        <div id="bottom_all_bot">
+      
+               
+                <div id="b_col4">
+                	<h1></h1>
+                    <div style="height:15px"></div>
+                    <b></b><br />
+                    <br /><br />
+					<b></b><br />
+					
+                        
+          		</div>
+          	<div style="clear: both; height:20px;"></div>
+        </div>     
+        </div>  
+        <!-- footer begins -->
+        <div id="footer">
+            <a href="#" title="Website Templates"></a><br />
+            <a href="#"></a>  <a href="#"></a>  <a href="#" title="#"><abbr title=""></abbr></a>  <a href="#" title=""><abbr title=""></abbr></a>
+        </div>
+        <!-- footer ends -->
+        
+        
+         
+    </div>
+    </div>
+<!-- bottom end --> 
+
+</div>
+
+
+
+    </form>
+
+
+
+</body>
+</html>
